@@ -1,240 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d722b1ac-e716-4ebf-94f9-a6bf6632b1a8" name="Changes" comment="231218 깃허브 블로그만들기 예제파일 커밋">
-      <change beforePath="$PROJECT_DIR$/.idea/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.github/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.github/ISSUE_TEMPLATE/documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/documentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.github/ISSUE_TEMPLATE/support.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/support.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.github/stale.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/stale.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BingSiteAuth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BingSiteAuth.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_data/ui-text.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/ui-text.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/analytics-providers/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics-providers/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/analytics-providers/google-gtag.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics-providers/google-gtag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/analytics-providers/google-universal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics-providers/google-universal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/analytics-providers/google.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics-providers/google.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/analytics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/archive-single2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/archive-single3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/author-profile-custom-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-profile-custom-links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/author-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/breadcrumbs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/breadcrumbs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/browser-upgrade.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/browser-upgrade.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/category-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/category-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comment.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments-providers/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments-providers/discourse.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/discourse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments-providers/disqus.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/disqus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments-providers/facebook.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/facebook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments-providers/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments-providers/staticman.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/staticman.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments-providers/staticman_v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/staticman_v2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments-providers/utterances.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments-providers/utterances.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/comments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/documents-collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/documents-collection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/feature_row" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/feature_row" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/figure" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/figure" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/footer/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/gallery" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/gallery" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/group-by-array" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/group-by-array" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/masthead.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/masthead.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/nav_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/nav_list_main" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav_list_main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/page__hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/page__hero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/page__hero_video.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/page__hero_video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/page__taxonomy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/page__taxonomy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/paginator.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/paginator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/post__taxonomy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/post__taxonomy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/post_pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/post_pagination.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/posts-category.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/posts-category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/posts-tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/posts-tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/read-time.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/read-time.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/search/algolia-search-scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/search/algolia-search-scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/search/google-search-scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/search/google-search-scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/search/lunr-search-scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/search/lunr-search-scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/search/search_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/search/search_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/seo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/seo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/skip-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/skip-links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/social-share.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social-share.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/tag-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/tag-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/toc" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_includes/video" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/video" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/archive-taxonomy.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/archive-taxonomy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/archive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/categories.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/collection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/compress.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/compress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/splash.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/splash.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_layouts/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_pages/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/404.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_pages/cartegory-archive.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cartegory-archive.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_pages/categories/category-blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/categories/category-blog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_pages/tags-archive.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/tags-archive.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_pages/year-archive.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/year-archive.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_posts/Blog/2021-09-25-git &amp; github.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Blog/2021-09-25-git &amp; github.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_animations.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_animations.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_archive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_archive.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_masthead.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_notices.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_notices.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_print.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_search.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_syntax.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_syntax.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_tables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_air.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_air.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_aqua.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_aqua.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_contrast.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_contrast.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_dark.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_default.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_dirt.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_dirt.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_mint.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_mint.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_myskin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_myskin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_neon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_neon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_plum.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_plum.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/skins/_sunrise.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/skins/_sunrise.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/_breakpoint.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/_breakpoint.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/_context.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/_context.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/_helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/_legacy-settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/_legacy-settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/_no-query.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/_no-query.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/_parsers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/_parsers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/_respond-to.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/_respond-to.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/_settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/_double.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/_double.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/_query.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/_query.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/_resolution.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/_resolution.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/_single.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/_single.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/_triple.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/_triple.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_default-pair.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_default-pair.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_default.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_double-string.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_double-string.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/resolution/_resolution.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/resolution/_resolution.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/single/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/single/_default.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/breakpoint/parsers/triple/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/breakpoint/parsers/triple/_default.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/magnific-popup/_magnific-popup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/magnific-popup/_magnific-popup.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/magnific-popup/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/magnific-popup/_settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/_su.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/_su.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/_susy-prefix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/_susy-prefix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/_susy.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/_susy.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/plugins/_svg-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/plugins/_svg-grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_prefix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_prefix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-api.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-api.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-grid-math.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-grid-math.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-unprefix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-unprefix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/plugins/svg-grid/_svg-utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_api.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_api.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_normalize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_parse.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_parse.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_su-math.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_su-math.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_su-validate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_su-validate.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_syntax-helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_syntax-helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_unprefix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_unprefix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/_sass/minimal-mistakes/vendor/susy/susy/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/vendor/susy/susy/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/android-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/android-icon-144x144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/android-icon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/android-icon-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/android-icon-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/android-icon-36x36.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/android-icon-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/android-icon-48x48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/android-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/android-icon-72x72.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/android-icon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/android-icon-96x96.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-114x114.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-120x120.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-144x144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-152x152.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-180x180.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-57x57.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-60x60.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-72x72.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-76x76.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon-precomposed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/apple-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/browserconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/favicon-96x96.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/ms-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/ms-icon-144x144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/ms-icon-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/ms-icon-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/ms-icon-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/ms-icon-310x310.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/favicon.ico/ms-icon-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico/ms-icon-70x70.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/images/dol_kakao.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dol_kakao.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/images/profile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/profile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/_main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/lunr/lunr-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lunr/lunr-en.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/lunr/lunr-gr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lunr/lunr-gr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/lunr/lunr-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lunr/lunr-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/lunr/lunr.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lunr/lunr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/lunr/lunr.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lunr/lunr.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/plugins/gumshoe.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/gumshoe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/plugins/jquery.ba-throttle-debounce.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.ba-throttle-debounce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/plugins/jquery.fitvids.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.fitvids.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/plugins/jquery.greedy-navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.greedy-navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/plugins/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/jquery.magnific-popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/plugins/smooth-scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/plugins/smooth-scroll.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assets/js/vendor/jquery/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/vendor/jquery/jquery-3.4.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google8a97825fdbe4bbc7.html" beforeDir="false" afterPath="$PROJECT_DIR$/google8a97825fdbe4bbc7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jiheon2.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jiheon2.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/minimal-mistakes-jekyll.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/minimal-mistakes-jekyll.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/mstile-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/naver54f530989d6c2f164cea027aeb077ff4.html" beforeDir="false" afterPath="$PROJECT_DIR$/naver54f530989d6c2f164cea027aeb077ff4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/safari-pinned-tab.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sellers.json" beforeDir="false" afterPath="$PROJECT_DIR$/sellers.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/staticman.yml" beforeDir="false" afterPath="$PROJECT_DIR$/staticman.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav_list_main" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav_list_main" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,6 +42,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\jiheon2.github.io" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -278,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702886886042</updated>
-      <workItem from="1702886887004" duration="324000" />
+      <workItem from="1702886887004" duration="2735000" />
     </task>
     <task id="LOCAL-00001" summary="231218 깃허브 블로그만들기 예제파일 커밋">
       <option name="closed" value="true" />
@@ -296,7 +73,63 @@
       <option name="project" value="LOCAL" />
       <updated>1702887095697</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702887455189</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702887455189</updated>
+    </task>
+    <task id="LOCAL-00004" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702887463869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702887463869</updated>
+    </task>
+    <task id="LOCAL-00005" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702888804808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702888804808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702889000365</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702889000365</updated>
+    </task>
+    <task id="LOCAL-00007" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702889124237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702889124237</updated>
+    </task>
+    <task id="LOCAL-00008" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702889337456</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702889337456</updated>
+    </task>
+    <task id="LOCAL-00009" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702889645003</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702889645003</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
