@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "myskin" # "default"  "air", "aqua", "contrast", , "d
 
 # Site Settings
 locale                   : "ko-KR" # 블로그 사용 언어
-title                    : "블로그 타이틀" # 블로그 타이틀
+title                    : "Jiheon" # 블로그 타이틀
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "블로그 유저 닉네임"
-description              : "블로그 간단 설명"
+name                     : "Jiheon"
+description              : "develope"
 url                      : "https://jiheon2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "유저이름/comments" #댓글 경로 / github name/repository
+repository               : "jiheon2/comments" #댓글 경로 / github name/repository
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # 타이틀 옆 로고
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -103,21 +103,21 @@ analytics: # 블로그 접근 경로 확인 코드
 
 # Site Author / 사이드바 소개 부분
 author:
-  name             : "닉네임"
+  name             : "김지헌"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "간단한 글귀"
-  location         : "사는 지역"
+  bio              : "개발로 세상을 바꿀때까지"
+  location         : "서울"
 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:이메일주소@gmail.com"
+      url: "mailto:000224kjh@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/유저이름"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/인스타 아이디"
+      url: "https://github.com/jiheon2"
+    # label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://www.instagram.com"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -134,7 +134,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/유저이름"
+      url: "https://github.com/jiheon2"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url:
