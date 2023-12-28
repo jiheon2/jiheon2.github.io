@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d722b1ac-e716-4ebf-94f9-a6bf6632b1a8" name="Changes" comment="231218 깃허브 블로그만들기 예제파일 커밋">
-      <change afterPath="$PROJECT_DIR$/_pages/categories/category-cs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/categories/category-db.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/Java/2023-12-28-JPA.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/categories/category-blog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Blog/2021-09-25-git &amp; github.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Java/2023-12-18-Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Java/2023-12-18-Java.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,13 +18,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jiheon2&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9bfa6023-f107-4a38-9134-f95ab6d9f50a" />
+        <option name="url" value="https://github.com/jiheon2/jiheon2.github.io.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2Zhuy4Uh3qOhsLtn0frvsomwfMH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,8 +63,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\jiheon2.github.io\_posts\CS" />
       <recent name="C:\jiheon2.github.io" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="jiheon2.github.io" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,7 +83,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702886886042</updated>
-      <workItem from="1702886887004" duration="3371000" />
+      <workItem from="1702886887004" duration="5245000" />
+      <workItem from="1703764816212" duration="104000" />
+      <workItem from="1703764932778" duration="156000" />
+      <workItem from="1703765105023" duration="256000" />
+      <workItem from="1703765420611" duration="1357000" />
     </task>
     <task id="LOCAL-00001" summary="231218 깃허브 블로그만들기 예제파일 커밋">
       <option name="closed" value="true" />
@@ -140,7 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702889946523</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702890371073</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702890371073</updated>
+    </task>
+    <task id="LOCAL-00012" summary="231218 깃허브 블로그만들기 예제파일 커밋">
+      <option name="closed" value="true" />
+      <created>1702890624306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702890624306</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
